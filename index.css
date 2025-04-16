@@ -25,7 +25,7 @@ body{
         flex-direction: column;
         width:100% auto;
         height: 320px;
-        margin:50px auto;
+        /* margin:50px auto; */
         padding: 7px;
         /* height: 50%; */
         border-radius: 10px;
